@@ -1,6 +1,6 @@
 ### **Objetivo do Projeto**
 
-Desenvolver um modelo de Machine Learning para analisar postagens em fóruns online sobre saúde mental e identificar sinais potenciais de risco de suicídio, com o objetivo de auxiliar na prevenção e intervenção precoce.
+Desenvolver um modelo de Machine Learning para analisar postagens em fóruns online sobre saúde mental e identificar sinais potenciais de risco de suicídio, com o objetivo de auxiliar na prevenção e intervenção precoce. Projeto realizado para disciplina de IA na Saúde
 
 ### **Sobre o Projeto**
  
@@ -25,3 +25,6 @@ Para organizar o desenvolvimento deste projeto, utilizei o método CRISP-DM (Cro
 O dataset `mental_disorders_reddit.csv` contém postagens do Reddit sobre saúde mental, com informações como título, texto, data de criação, NSFW e subreddit. O objetivo é usar essas informações para classificar postagens e detectar sinais de risco.
 
 [Link para o dataset do Kaggle](https://www.kaggle.com/datasets/kamaruladha/mental-disorders-identification-reddit-nlp?resource=download)
+
+<img src="Monitoramento_Sentimentos_Posts.png" alt="Monitoramento de Sentimentos" width="500" />
+
